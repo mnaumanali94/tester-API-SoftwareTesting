@@ -1,0 +1,9 @@
+<!--
+ - TesterLib
+ -
+ - This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ).
+-->
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="preference_file_key">tester_prefs</string>
+</resources>
